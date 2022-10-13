@@ -159,7 +159,7 @@ Library: lib_burst_generated
 --compilation-defines=USING_ANIMATION_MODULE
 --compilation-defines=USING_PHYSICS2D_MODULE
 --compilation-defines=TIMELINE_FRAMEACCURATE
---linker-options=PdbAltPath="FreezeTag#AttemptOne_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="FreezeTagRevamp_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\Unity Projects\FreezeTagAttemptOne\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\Unity Projects\FreezeTagAttemptOne\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
@@ -371,7 +371,7 @@ Library: lib_burst_generated
 --compilation-defines=USING_ANIMATION_MODULE
 --compilation-defines=USING_PHYSICS2D_MODULE
 --compilation-defines=TIMELINE_FRAMEACCURATE
---linker-options=PdbAltPath="FreezeTag#AttemptOne_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="FreezeTagRevamp_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\Unity Projects\FreezeTagAttemptOne\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
 --root-assembly=D:\Unity Projects\FreezeTagAttemptOne\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
